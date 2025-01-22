@@ -1,0 +1,11 @@
+ numpy 
+pandas 
+matplotlib 
+scikit-learn 
+easyocr 
+easyocr[ar] 
+easyocr[en] 
+easyocr[ar , en]
+ultralytics 
+Pillow 
+opencv-python
